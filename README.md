@@ -1,2 +1,0 @@
-# kamailetom.github.io
-Projects
