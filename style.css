@@ -27,12 +27,14 @@ body {
 .title-logo{
   margin-top: 20px;
     
+    
 }
 
 hr {
     border: none;
     height: 2px;
     /* Set the hr color */
-    color: #aaaaaa; /* old IE */
-    background-color: #aaaaaa; /* Modern Browsers */
+    color: #ADFAFF; /* old IE */
+    background-color: #ADFAFF; /* Modern Browsers */
 }
+
