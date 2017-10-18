@@ -45,4 +45,9 @@ h1{
 h5{
     color: #111111;
 }
+/* alignhw sets the hieght and width of the images asigned to it*/
+.alignhw{
+    height: 150px;
+    width: 350px;
+}
 
